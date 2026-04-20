@@ -1,0 +1,21 @@
+{
+  "name": "jygfcygjk",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "date-and-time": "^4.4.0",
+    "dayjs": "^1.11.20",
+    "days": "^1.1.1",
+    "express": "^5.2.1",
+    "fecha": "^4.2.3",
+    "install": "^0.13.0",
+    "npm": "^11.12.1"
+  }
+}
